@@ -16,15 +16,18 @@ Some challenges I encountered were getting the Outcomes Based on Launch Date to 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-#
+
  1. The best time to launch a play would be in May. May had the most successful launch dates of the entire year. 
  2. The worst time to launch a play would be in Decemeber. Decemember had the worst successful launch dates for the years. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 The lower goal was more attainable versus the higher goal marks.
 
 - What are some limitations of this dataset?
+
 These are only based off launch dates. There are more factors to making a play or show successful when dealing with fundraisers. A big part of Fundraisers success deals with awareness and presentating. Another limitation is 
 
 - What are some other possible tables and/or graphs that we could create?
+
 We could use a bar chart which would give great representation based off difference of height. 
