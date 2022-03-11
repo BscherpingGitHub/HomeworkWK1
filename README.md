@@ -16,8 +16,9 @@ Some challenges I encountered were getting the Outcomes Based on Launch Date to 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-The best time to launch a play would be in May. May had the most successful launch dates of the entire year. 
-The worst time to launch a play would be in Decemeber. Decemember had the worst successful launch dates for the years. 
+#
+ 1. The best time to launch a play would be in May. May had the most successful launch dates of the entire year. 
+ 2. The worst time to launch a play would be in Decemeber. Decemember had the worst successful launch dates for the years. 
 
 - What can you conclude about the Outcomes based on Goals?
 The lower goal was more attainable versus the higher goal marks.
