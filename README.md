@@ -11,6 +11,7 @@ This analysis is to determine the best launch date and funding range to achieve 
 The analysis showed the best launch date to be in the second and third quarters. The best individual month was May. Launching late spring early summer would give a great chance on reaching the desired fundraising goal. ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 There was a split range of success rates: 1. Having a goal of less than $1,000 had a success rate of 75% decreasing gradually to 50% when reaching $15,000. 2. Having a goal from $35,000 to $50,000 had a success rate of 67%. Picking a funding range based on these 2 options above gives over a 50% chance of success. 
+![Outcomes_vs_Goals](Resource/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 Some challenges I encountered were getting the Outcomes Based on Launch Date to show in months. I learned the grouping option helps you change this option from years to months. Another challenge I had was using the correct parameters for the countifs function. The video on Canvas did a great job explaing the how the parameters were to be entered.
 ## Results
