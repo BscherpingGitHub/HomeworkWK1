@@ -31,4 +31,4 @@ Some challenges I encountered were getting the Outcomes Based on Launch Date to 
 
 - What are some other possible tables and/or graphs that we could create?
 
- We could use a column or bar chart. These charts give great representation for side by side comparison. 
+ We could use a column or bar chart. These charts give great representation for side-by-side comparison. 
