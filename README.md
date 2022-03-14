@@ -27,7 +27,7 @@ Some challenges I encountered were getting the Outcomes Based on Launch Date to 
 
 - What are some limitations of this dataset?
 
- These are only based off launch dates and donations. There are more factors to making a play or show successful when dealing with fundraisers. A big part of reaching a fundraiser goal deals with awareness and presentation. People will invest into a fundraiser that would appeal to them. This will need more information on the audience to determine the age range to be as appealing as possible. 
+ These are only based off launch dates and donations. There are more factors to making a play or show successful when dealing with fundraisers. A big part of reaching a fundraiser goal deals with awareness and presentation. People invest in fundraisers that appeal to them. This dataset needs more information on the audience to determine the age range to be as appealing as possible. 
 
 - What are some other possible tables and/or graphs that we could create?
 
